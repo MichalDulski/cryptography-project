@@ -1,0 +1,16 @@
+C:\Users\micdul\RiderProjects\CryptographyProject\CryptographyProject\bin\Debug\net5.0\CryptographyProject.exe
+C:\Users\micdul\RiderProjects\CryptographyProject\CryptographyProject\bin\Debug\net5.0\CryptographyProject.deps.json
+C:\Users\micdul\RiderProjects\CryptographyProject\CryptographyProject\bin\Debug\net5.0\CryptographyProject.runtimeconfig.json
+C:\Users\micdul\RiderProjects\CryptographyProject\CryptographyProject\bin\Debug\net5.0\CryptographyProject.runtimeconfig.dev.json
+C:\Users\micdul\RiderProjects\CryptographyProject\CryptographyProject\bin\Debug\net5.0\CryptographyProject.dll
+C:\Users\micdul\RiderProjects\CryptographyProject\CryptographyProject\bin\Debug\net5.0\ref\CryptographyProject.dll
+C:\Users\micdul\RiderProjects\CryptographyProject\CryptographyProject\bin\Debug\net5.0\CryptographyProject.pdb
+C:\Users\micdul\RiderProjects\CryptographyProject\CryptographyProject\obj\Debug\net5.0\CryptographyProject.csprojAssemblyReference.cache
+C:\Users\micdul\RiderProjects\CryptographyProject\CryptographyProject\obj\Debug\net5.0\CryptographyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micdul\RiderProjects\CryptographyProject\CryptographyProject\obj\Debug\net5.0\CryptographyProject.AssemblyInfoInputs.cache
+C:\Users\micdul\RiderProjects\CryptographyProject\CryptographyProject\obj\Debug\net5.0\CryptographyProject.AssemblyInfo.cs
+C:\Users\micdul\RiderProjects\CryptographyProject\CryptographyProject\obj\Debug\net5.0\CryptographyProject.csproj.CoreCompileInputs.cache
+C:\Users\micdul\RiderProjects\CryptographyProject\CryptographyProject\obj\Debug\net5.0\CryptographyProject.dll
+C:\Users\micdul\RiderProjects\CryptographyProject\CryptographyProject\obj\Debug\net5.0\ref\CryptographyProject.dll
+C:\Users\micdul\RiderProjects\CryptographyProject\CryptographyProject\obj\Debug\net5.0\CryptographyProject.pdb
+C:\Users\micdul\RiderProjects\CryptographyProject\CryptographyProject\obj\Debug\net5.0\CryptographyProject.genruntimeconfig.cache
