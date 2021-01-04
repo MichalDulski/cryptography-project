@@ -5,6 +5,7 @@
     <e p="C:\Users\micdul\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_CryptographyProject.237918139.00" t="ExcludeRecursive" />
     <e p="C:\Users\micdul\RiderProjects\CryptographyProject" t="IncludeFlat">
       <e p="CryptographyProject" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="CryptographyProject.csproj" t="IncludeRecursive" />
         <e p="EllipticCurve.cs" t="Include" />
